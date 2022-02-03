@@ -1,2 +1,2 @@
-# word-cloud.py
-Primeiro projeto do treinamento em py
+# Listas do desafio do treinamento em py
+Segundo projeto do treinamento 
